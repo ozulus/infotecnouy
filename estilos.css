@@ -1,0 +1,439 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+#general{
+    background: rgb(34, 33, 33); 
+    width: auto;
+    height: auto;
+    margin: 1em;
+    padding: 1em;
+}
+
+#cabecera{
+  
+    width: 88%;
+    border-radius: 0.5em;
+    background: blue;    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font: 10px;
+    margin: 0.5em;
+    padding: 1em;
+    color: black;
+    font-size: 50px;
+    text-align: left;
+    font-style: bold;
+
+    
+}
+
+#cabecera nav {
+
+
+        text-decoration: black ;
+        margin: 3px;
+        font-size: 25px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        font-style: italic;
+       
+        
+}
+
+input {
+height: 33px;
+width: 250px;
+outline: none;
+border-radius: 10px;
+text-align: center;
+border: black ;
+float: right;
+
+}
+
+
+
+
+
+#section{
+    height: 3000px;
+    border-radius: 1em;
+    background-image: url(imagenes/fondo5.jpg);
+    
+    margin: 2em;
+    padding: 0em;
+    color: white;
+    
+}
+
+#section h2 {
+
+    font-size: 40px;
+    font-style: italic;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin: 2cm;
+text-align: center;
+color: black;
+
+
+
+}
+
+.art1{ 
+    height: 370px;
+    width: 350px;
+  
+    background-image:  url(imagenes/pc1.jpg);
+    border-radius: 1em;
+    color:black;
+    font-size: 30px;
+    font-style: italic;
+    font-stretch: wider;
+    padding: 2em;
+    margin: 1em;
+    float: left;
+    
+    border: solid 6px black;
+
+
+}
+
+.art2{ 
+    height: 370px;
+    width: 350px;
+
+    background-image:  url(imagenes/pc1prueba.jpg);
+    border-radius: 1em;
+    color:black;
+    font-size: 30px;
+    font-style: italic;
+    font-stretch: wider;
+    padding: 2em;
+    margin: 1em;
+    float: left;
+    border: solid 6px black;
+
+
+
+
+
+
+
+}
+
+.art3{ 
+    height: 370px;
+    width: 350px;
+ 
+    background-image:  url(imagenes/pc2.jpg);
+    border-radius: 1em;
+    color:black;
+    font-size: 30px;
+    font-style: italic;
+    font-stretch: wider;
+    padding: 2em;
+    margin: 1em;
+    float: left;
+    border: solid 6px black;
+
+
+
+
+
+
+}
+
+
+.art4{ 
+    height: 370px;
+    width: 350px;
+  
+    background-image:  url(imagenes/pc3.jpg);
+    border-radius: 1em;
+    color:black;
+    font-size: 30px;
+    font-style: italic;
+    font-stretch: wider;
+    padding: 2em;
+    margin: 1em;
+    float: left;
+    border: solid 6px black;
+
+
+
+
+
+
+}
+
+ .art5 {
+    height: 370px;
+    width: 350px;
+  
+    background-image:  url(imagenes/pc4.jpg);
+    border-radius: 1em;
+    color:black;
+    font-size: 30px;
+    font-style: italic;
+    font-stretch: wider;
+    padding: 2em;
+    margin: 1em;
+    float: left;
+    border: solid 6px black;
+
+
+ }
+
+
+ .art6 { 
+
+
+    height: 370px;
+    width: 350px;
+  
+    background-image:  url(imagenes/pc5.jpg);
+    border-radius: 1em;
+    color:black;
+    font-size: 30px;
+    font-style: italic;
+    font-stretch: wider;
+    padding: 2em;
+    margin: 1em;
+    float: left;
+    border: solid 6px black;
+
+
+
+
+ }
+
+.art7 {
+    
+    height: 370px;
+    width: 350px;
+  
+    background-image:  url(imagenes/pc6.jpg);
+    border-radius: 1em;
+    color:black;
+    font-size: 30px;
+    font-style: italic;
+    font-stretch: wider;
+    padding: 2em;
+    margin: 1em;
+    float: left;
+    border: solid 6px black;
+
+
+}
+.art8 {
+
+
+    height: 370px;
+    width: 350px;
+  
+    background-image:  url(imagenes/pc9.jpg);
+    border-radius: 1em;
+    color:black;
+    font-size: 30px;
+    font-style: italic;
+    font-stretch: wider;
+    padding: 2em;
+    margin: 1em;
+    float: left;
+    border: solid 6px black;
+
+
+
+}
+
+
+.art9 {
+
+
+    height: 370px;
+    width: 350px;
+  
+    background-image:  url(imagenes/pc11.jpg);
+    border-radius: 1em;
+    color:black;
+    font-size: 30px;
+    font-style: italic;
+    font-stretch: wider;
+    padding: 2em;
+    margin: 1em;
+    float: left;
+    border: solid 6px black;
+
+
+}
+
+
+
+.art10 {
+
+
+    height: 370px;
+    width: 350px;
+  
+    background-image:  url(imagenes/pc10.jpg);
+    border-radius: 1em;
+    color:black;
+    font-size: 30px;
+    font-style: italic;
+    font-stretch: wider;
+    padding: 2em;
+    margin: 1em;
+    float: left;
+    border: solid 6px black;
+
+
+}
+
+
+
+#pie{
+    height: 8%;
+    border-radius: 1em;
+    background: blue;
+    margin: 0.5em;
+    padding: 1em;
+    font-style: italic;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    font-size: 24px;
+}
+#insta { 
+
+    color: red
+}
+
+
+
+
+
+
+
+.art1 {
+    transition: transform 0.5s ;
+    }
+
+    .art2 {
+        transition: transform 0.5s ;
+        }
+
+
+
+
+
+
+
+
+        .art1:hover{
+    transform: scale(1.1)
+    }
+
+    .art2:hover{
+        transform: scale(1.1)
+        }
+
+
+       
+       
+       
+       
+       
+        .art3 {
+            transition: transform 0.5s ;
+            }
+
+
+            .art3:hover{
+                transform: scale(1.1)
+                }
+
+
+
+
+                .art4 {
+                    transition: transform 0.5s ;
+                    }
+        
+
+
+                    .art4:hover{
+                        transform: scale(1.1)
+                        }
+        
+
+
+
+                        .art5 {
+                            transition: transform 0.5s ;
+                            }
+
+
+                            .art5:hover {
+
+                                transform:scale(1.1);
+                            }
+
+
+
+
+                            .art6{
+                            transition: transform 0.5s ;
+                            }
+
+                            
+
+                            .art6:hover {
+
+                                transform:scale(1.1);
+                            }
+
+                            .art7 {
+                                transition: transform 0.5s ;
+                                }
+                    
+            
+            
+                                .art7:hover{
+                                    transform: scale(1.1)
+                                    }
+
+
+                                    .art8 {
+                                        transition: transform 0.5s ;
+                                        }
+                            
+                    
+                    
+                                        .art8:hover{
+                                            transform: scale(1.1)
+                                            }
+
+
+                                            .art9 {
+                                                transition: transform 0.5s ;
+                                                }
+                                    
+                            
+                            
+                                                .art9:hover{
+                                                    transform: scale(1.1)
+                                                    }
+
+                                                    .art10 {
+                                                        transition: transform 0.5s ;
+                                                        }
+                                            
+                                    
+                                    
+                                                        .art10:hover{
+                                                            transform: scale(1.1)
+                                                            }
+
+
+                                                            
